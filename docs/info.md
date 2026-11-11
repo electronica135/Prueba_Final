@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simply replace the original logo with my company's logo, adjusting the size accordingly while keeping all other settings the same.
 
 ## How to test
 
-Explain how to use your project
+Use box 1 to increase the quantity and box 2 to change the color.
 
 ## External hardware
 
